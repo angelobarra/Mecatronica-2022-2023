@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="194mm"
+   height="100mm"
+   viewBox="0 0 194 100"
+   version="1.1"
+   id="svg259"
+   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   sodipodi:docname="dibujo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview261"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="1.2861282"
+     inkscape:cx="375.93454"
+     inkscape:cy="203.32344"
+     inkscape:window-width="1846"
+     inkscape:window-height="1016"
+     inkscape:window-x="74"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,99.999992"
+       orientation="0,793.70079"
+       id="guide263"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="209.99979,99.999992"
+       orientation="1122.5197,0"
+       id="guide265"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="210,-196.99996"
+       orientation="0,-793.70079"
+       id="guide267"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,-196.99998"
+       orientation="-1122.5197,0"
+       id="guide269"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,99.999992"
+       orientation="0,793.70079"
+       id="guide271"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="149.85389,89.413984"
+       orientation="1122.5197,0"
+       id="guide273"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="210,-196.99996"
+       orientation="0,-793.70079"
+       id="guide275"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,-196.99998"
+       orientation="-1122.5197,0"
+       id="guide277"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,75.125208"
+       orientation="1,0"
+       id="guide281"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,25.084726"
+       orientation="1,0"
+       id="guide283"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,75.125218"
+       orientation="0,-1"
+       id="guide285"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,25.084736"
+       orientation="0,-1"
+       id="guide287"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,49.959514"
+       orientation="1,0"
+       id="guide289"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,49.959524"
+       orientation="0,-1"
+       id="guide291"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="24.874759,100"
+       orientation="0,-1"
+       id="guide293"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="175.14168,100"
+       orientation="0,-1"
+       id="guide380"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="50.027338,62.32416"
+       orientation="1,0"
+       id="guide382"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="40.585184,62.32416"
+       orientation="0,-1"
+       id="guide468"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs256" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1357">
+      <path
+         id="path349"
+         style="fill:#afe9dd;stroke:#000000;stroke-width:0.264583"
+         d="M 50.027328,24.874769 A 25.02025,25.02025 0 0 0 25.00715,49.894948 25.02025,25.02025 0 0 0 50.027328,74.915126 H 149.85379 A 25.02025,25.02025 0 0 0 174.87397,49.894948 25.02025,25.02025 0 0 0 149.85379,24.874769 Z" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         id="path473"
+         cx="50.027328"
+         cy="49.286297"
+         r="11.610449" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         id="circle475"
+         cx="149.85396"
+         cy="49.286297"
+         r="11.610449" />
+    </g>
+  </g>
+</svg>
